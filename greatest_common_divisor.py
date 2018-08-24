@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 """
-Author beichenwenxin https://github.com/beichenwenxin/Python/edit/master/greatest_common_divisor.py
+Author beichenwenxin https://github.com/beichenwenxin/Python/blob/master/greatest_common_divisor.py
 Created on Fri Aug 24 18:00:09 2018
 Work for greatest common divisor gcd
 """
