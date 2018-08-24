@@ -2,7 +2,7 @@
 # -*- coding: UTF-8 -*-
 
 """
-Author beichenwenxin https://github.com/beichenwenxin/Python/edit/master/print_date_time.py
+Author beichenwenxin https://github.com/beichenwenxin/Python/blob/master/print_date_time.py
 Created on Fri Aug 24 10:01:07 2018 
 """
 import time
